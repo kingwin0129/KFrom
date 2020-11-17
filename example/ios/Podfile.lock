@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - kform (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - kform (from `.symlinks/plugins/kform/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  kform:
+    :path: ".symlinks/plugins/kform/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  kform: b111a98404e9b75b8d9e3c8245d6b9fb95c991df
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
